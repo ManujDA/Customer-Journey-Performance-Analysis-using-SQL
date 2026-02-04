@@ -1,4 +1,4 @@
-# 📊 Service Journey Performance Analysis (SQL | BigQuery)
+# 📊 Customer Journey Performance Analysis (SQL | BigQuery)
 
 ## Overview  
 This project analyses **end-to-end customer journeys** using the same event-level dataset provided for this analysis (`Funnel_analysis_raw events`).  
